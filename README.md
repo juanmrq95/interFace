@@ -1,4 +1,4 @@
-# Lab 4: Neurofeedback
+# OpenBCI: Neurofeedback
 
 ### Introduction
 In this lab, we will play around with some neurofeedback training!
