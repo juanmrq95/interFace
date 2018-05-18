@@ -11,7 +11,7 @@ npm install
 pip install -r requirements.txt
 ```
 
-Download Emulator: http://www.completeroms.com/dl/gameboy-advance/super-mario-advance-4-super-mario-bros-3-u-/788
+Now download the Emulator: http://www.completeroms.com/dl/gameboy-advance/super-mario-advance-4-super-mario-bros-3-u-/788
 
 (If you don't have `npm`, you can install by running `brew install node`. You can get `brew` from https://brew.sh/)
 
@@ -34,11 +34,14 @@ Download Emulator: http://www.completeroms.com/dl/gameboy-advance/super-mario-ad
 
 ![leftcheek](https://user-images.githubusercontent.com/14130139/40259368-a08bdbe0-5aaa-11e8-932a-5db99a480837.png)
 
-
 ``` python
 decrease_fs = [4, 8]
 increase_fs = [12, 20]
 ```
+
+ - Modify the commands on gestureControl.py to map keyboards keys to different facial expressions
+
+ Finally, start the emulator, run gestureControl.py and start playing with your face!
 
 References:
 
