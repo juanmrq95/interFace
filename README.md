@@ -43,10 +43,10 @@ increase_fs = [12, 20]
 ### Finally, start the emulator, run gestureControl.py and start playing with your face!
 .
 .
-.    
+.     
 . 
-. 
-.
+.  
+.  
 .
 .
 .
