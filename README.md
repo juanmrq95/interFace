@@ -3,7 +3,7 @@
 ### Introduction
 InterFace is a wearable gaming interface used to control 2D games using facial expressions. InterFace consists of a set of 4 OpenBCI Ganglion EMG electrodes connected on the forehead, lower lip and on the left and right cheek. By using these electrodes we are able to map facial expressions to 5 different commands: up, down, left, right and shoot.
 
-### Setup
+### Software Setup
 
 First, install the libraries:
 ``` bash
@@ -15,8 +15,7 @@ Now download the Emulator: http://www.completeroms.com/dl/gameboy-advance/super-
 
 (If you don't have `npm`, you can install by running `brew install node`. You can get `brew` from https://brew.sh/)
 
-### Stimulus Presentation + Recording
-
+### How to play:
 
 - Attach Ganglion to participant's face: 
   - Channel 1: Forehead
@@ -41,8 +40,8 @@ increase_fs = [12, 20]
 
  - Modify the commands on gestureControl.py to map keyboards keys to different facial expressions
 
- Finally, start the emulator, run gestureControl.py and start playing with your face!
+## Finally, start the emulator, run gestureControl.py and start playing with your face!
+
 
 References:
-
 [1] Arns, M., de Ridder, S., Strehl, U., Breteler, M., & Coenen, A. (2009). Efficacy of neurofeedback treatment in ADHD: the effects on inattention, impulsivity and hyperactivity: a meta-analysis. Clinical EEG and neuroscience, 40(3), 180-189. [(PDF)](http://www.bakerneuropsychology.com/files/Arns_2009_ClinEEGNeurosci_Efficacy_for_ADHD_meta-analysis.pdf)
