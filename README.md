@@ -30,7 +30,10 @@ Download Emulator: http://www.completeroms.com/dl/gameboy-advance/super-mario-ad
 - Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
-- Check calibration values
+- Check calibration values: 
+
+![leftcheek](https://user-images.githubusercontent.com/14130139/40259368-a08bdbe0-5aaa-11e8-932a-5db99a480837.png)
+
 
 ``` python
 decrease_fs = [4, 8]
