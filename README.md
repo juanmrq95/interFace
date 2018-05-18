@@ -11,11 +11,11 @@ npm install
 pip install -r requirements.txt
 ```
 
+(If you don't have `npm`, you can install by running `brew install node`. You can get `brew` from https://brew.sh/)
+
 Now download thos Super Mario Bros 3 Emulator: http://www.completeroms.com/dl/gameboy-advance/super-mario-advance-4-super-mario-bros-3-u-/788
 
 You can use InterFace to play any 4-key game of your choice!
-
-(If you don't have `npm`, you can install by running `brew install node`. You can get `brew` from https://brew.sh/)
 
 ### How to play:
 
