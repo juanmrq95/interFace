@@ -1,7 +1,7 @@
 # InterFace:  OpenBCI
 
 ### Introduction
-InterFace is a wearable gaming interface used to control 2D games using facial expressions. InterFace consists of a set of 4 OpenBCI Ganglion EMG electrodes connected on the forehead, lower lip and on the left and right cheek. By using these electrodes we are able to map facial expressions to 5 different commands: up, down, left, right and shoot.
+InterFace is a wearable gaming interface used to control 2D games using facial expressions. InterFace consists of a set of 4 OpenBCI Ganglion EMG electrodes connected on the forehead, lower lip and on the left and right cheeks. By using these electrodes we are able to map facial expressions to 5 different commands: up, down, left, right and shoot.
 
 ### Software Setup
 
