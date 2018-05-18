@@ -39,10 +39,6 @@ You can use InterFace to play any 4-key game of your choice!
 
                                   Figure 2: OpenBCI viewer with left cheek being activated
 
-``` python
-decrease_fs = [4, 8]
-increase_fs = [12, 20]
-```
 
 ### Finally, start the emulator, run gestureControl.py and start playing with your face!
 .
