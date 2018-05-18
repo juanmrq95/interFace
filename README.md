@@ -40,7 +40,7 @@ increase_fs = [12, 20]
 
  - Modify the commands on gestureControl.py to map keyboards keys to different facial expressions
 
-## Finally, start the emulator, run gestureControl.py and start playing with your face!
+### Finally, start the emulator, run gestureControl.py and start playing with your face!
 
 
 References:
