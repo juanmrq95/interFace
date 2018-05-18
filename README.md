@@ -30,6 +30,8 @@ Now download the Emulator: http://www.completeroms.com/dl/gameboy-advance/super-
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
 - Check calibration values: 
+- Modify the commands on gestureControl.py to map keyboards keys to different facial expressions
+
 
 ![leftcheek](https://user-images.githubusercontent.com/14130139/40259368-a08bdbe0-5aaa-11e8-932a-5db99a480837.png)
 
@@ -38,14 +40,15 @@ decrease_fs = [4, 8]
 increase_fs = [12, 20]
 ```
 
- - Modify the commands on gestureControl.py to map keyboards keys to different facial expressions
-
 ### Finally, start the emulator, run gestureControl.py and start playing with your face!
 .
 .
 .    
 . 
 . 
+.
+.
+.
 .
 
 References:
