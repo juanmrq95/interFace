@@ -43,7 +43,8 @@ increase_fs = [12, 20]
 ### Finally, start the emulator, run gestureControl.py and start playing with your face!
 .
 .
-.
-
+.    
+. 
+. 
 References:
 [1] Arns, M., de Ridder, S., Strehl, U., Breteler, M., & Coenen, A. (2009). Efficacy of neurofeedback treatment in ADHD: the effects on inattention, impulsivity and hyperactivity: a meta-analysis. Clinical EEG and neuroscience, 40(3), 180-189. [(PDF)](http://www.bakerneuropsychology.com/files/Arns_2009_ClinEEGNeurosci_Efficacy_for_ADHD_meta-analysis.pdf)
