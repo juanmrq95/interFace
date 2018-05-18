@@ -27,7 +27,7 @@ You can use InterFace to play any 4-key game of your choice!
   
   ![mariobrian](https://user-images.githubusercontent.com/14130139/40259304-642961fe-5aaa-11e8-906b-f84b85bc139a.png)
 
-                                              Figure 1: User controlling Mario
+                                             Figure 1: User controlling Mario
  
 - Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
@@ -37,7 +37,7 @@ You can use InterFace to play any 4-key game of your choice!
 
  ![leftcheek](https://user-images.githubusercontent.com/14130139/40259368-a08bdbe0-5aaa-11e8-932a-5db99a480837.png)
 
-                                    Figure 2: OpenBCI viewer with left cheek being activated
+                                  Figure 2: OpenBCI viewer with left cheek being activated
 
 ``` python
 decrease_fs = [4, 8]
